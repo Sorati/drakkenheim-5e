@@ -19,12 +19,28 @@
     {
       "name": "DoDk",
       "sorting": "m",
-      "color": "#3a227c",
+      "color": "#2d1a60",
       "folders": [
+        {
+          "name": "Журналы",
+          "sorting": "m",
+          "color": "#321a73",
+          "packs": [
+            "Drakkenheim-Journal"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Сцены",
+          "sorting": "m",
+          "color": "#371a85",
+          "packs": [],
+          "folders": []
+        },
         {
           "name": "Монстры",
           "sorting": "m",
-          "color": "#402390",
+          "color": "#3c1a98",
           "packs": [
             "MonstersDrakkenheim"
           ],
@@ -33,7 +49,7 @@
         {
           "name": "Заклинания",
           "sorting": "m",
-          "color": "#4926ab",
+          "color": "#411aab",
           "packs": [
             "Drakkenheim-Spell"
           ],
@@ -42,7 +58,7 @@
         {
           "name": "Происхождения",
           "sorting": "m",
-          "color": "#4b23b8",
+          "color": "#4519bd",
           "packs": [
             "Drakkenheim-Origin"
           ],
@@ -51,18 +67,27 @@
         {
           "name": "Предметы",
           "sorting": "m",
-          "color": "#5022ce",
+          "color": "#4a19d0",
           "packs": [
-            "Drakkenheim-Origin"
+            "Drakkenheim-Items"
           ],
           "folders": []
         },
         {
           "name": "Особенности",
           "sorting": "m",
-          "color": "#521fe0",
+          "color": "#4f19e2",
           "packs": [
-            "Drakkenheim-Origin"
+            "Drakkenheim-Features"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Таблицы",
+          "sorting": "m",
+          "color": "#5419f5",
+          "packs": [
+            "Drakkenheim-Tables"
           ],
           "folders": []
         }
