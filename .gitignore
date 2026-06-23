@@ -1,0 +1,37 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Node / Build tools
+node_modules/
+dist/
+build/
+.pnp
+.pnp.js
+.turbo
+
+# Testing and coverage
+coverage/
+.nyc_output
+
+# Foundry specific local data
+# (If you link your repository directly inside your Data/modules folder)
+packs/assets/
+*.log
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+
+#internal
+changelog.html
