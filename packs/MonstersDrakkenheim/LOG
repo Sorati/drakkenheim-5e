@@ -1,0 +1,5 @@
+2026/06/23-11:19:19.631 40ec Recovering log #147
+2026/06/23-11:19:19.633 40ec Level-0 table #149: started
+2026/06/23-11:19:19.639 40ec Level-0 table #149: 170681 bytes OK
+2026/06/23-11:19:19.645 40ec Delete type=0 #147
+2026/06/23-11:19:19.645 40ec Delete type=3 #146

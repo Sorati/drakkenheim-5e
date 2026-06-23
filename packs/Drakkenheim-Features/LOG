@@ -1,0 +1,5 @@
+2026/06/23-11:19:19.685 2dbc Recovering log #151
+2026/06/23-11:19:19.685 2dbc Level-0 table #153: started
+2026/06/23-11:19:19.691 2dbc Level-0 table #153: 7206 bytes OK
+2026/06/23-11:19:19.700 2dbc Delete type=0 #151
+2026/06/23-11:19:19.701 2dbc Delete type=3 #150

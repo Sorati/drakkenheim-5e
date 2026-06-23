@@ -1,0 +1,153 @@
+{
+  "id": "drakkenheim-5e",
+  "title": "Drakkenheim 5e",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Sorati",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packFolders": [
+    {
+      "name": "DoDk",
+      "sorting": "m",
+      "color": "#3a227c",
+      "folders": [
+        {
+          "name": "Монстры",
+          "sorting": "m",
+          "color": "#402390",
+          "packs": [
+            "MonstersDrakkenheim"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Заклинания",
+          "sorting": "m",
+          "color": "#4926ab",
+          "packs": [
+            "Drakkenheim-Spell"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Происхождения",
+          "sorting": "m",
+          "color": "#4b23b8",
+          "packs": [
+            "Drakkenheim-Origin"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Предметы",
+          "sorting": "m",
+          "color": "#5022ce",
+          "packs": [
+            "Drakkenheim-Origin"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Особенности",
+          "sorting": "m",
+          "color": "#521fe0",
+          "packs": [
+            "Drakkenheim-Origin"
+          ],
+          "folders": []
+        }
+      ],
+      "packs": []
+    }
+  ],
+  "packs": [
+    {
+      "name": "MonstersDrakkenheim",
+      "label": "Monsters-Drakkenheim",
+      "path": "packs/MonstersDrakkenheim",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Drakkenheim-Features",
+      "label": "Drakkenheim-Features",
+      "path": "packs/Drakkenheim-Features",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Drakkenheim-Items",
+      "label": "Drakkenheim-Items",
+      "path": "packs/Drakkenheim-Items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Drakkenheim-Origin",
+      "label": "Drakkenheim-Origin",
+      "path": "packs/Drakkenheim-Origin",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Drakkenheim-Spell",
+      "label": "Drakkenheim-Spell",
+      "path": "packs/Drakkenheim-Spell",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Drakkenheim-Tables",
+      "label": "Drakkenheim-Tables",
+      "path": "packs/Drakkenheim-Tables",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Drakkenheim-Journal",
+      "label": "Drakkenheim-Journal",
+      "path": "packs/Drakkenheim-Journal",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    }
+  ],
+  "description": ""
+}
