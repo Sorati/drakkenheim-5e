@@ -1,6 +1,11 @@
-2026/07/02-11:37:53.966 cc4 Recovering log #253
-2026/07/02-11:37:53.970 cc4 Level-0 table #255: started
-2026/07/02-11:37:53.983 cc4 Level-0 table #255: 603999 bytes OK
-2026/07/02-11:37:53.989 cc4 Delete type=0 #253
-2026/07/02-11:37:53.990 cc4 Delete type=3 #252
-2026/07/02-11:38:00.918 3524 Moved #255 to level-1 603999 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2026/07/02-11:52:17.063 3418 Recovering log #256
+2026/07/02-11:52:17.063 3418 Level-0 table #258: started
+2026/07/02-11:52:17.067 3418 Level-0 table #258: 4116 bytes OK
+2026/07/02-11:52:17.077 3418 Delete type=0 #256
+2026/07/02-11:52:17.078 3418 Delete type=3 #254
+2026/07/02-11:52:19.086 589c Compacting 1@1 + 1@2 files
+2026/07/02-11:52:19.104 589c Generated table #260@1: 201 keys, 364207 bytes
+2026/07/02-11:52:19.104 589c Compacted 1@1 + 1@2 files => 364207 bytes
+2026/07/02-11:52:19.106 589c compacted to: files[ 1 0 1 0 0 0 0 ]
+2026/07/02-11:52:19.106 589c Delete type=2 #251
+2026/07/02-11:52:19.107 589c Delete type=2 #255
