@@ -1,3 +1,5 @@
-2026/07/04-15:47:27.366 2cac Recovering log #245
-2026/07/04-15:47:27.371 2cac Delete type=0 #245
-2026/07/04-15:47:27.371 2cac Delete type=3 #244
+2026/07/05-17:27:01.938 dd0 Recovering log #249
+2026/07/05-17:27:01.941 dd0 Level-0 table #251: started
+2026/07/05-17:27:01.945 dd0 Level-0 table #251: 5921 bytes OK
+2026/07/05-17:27:01.952 dd0 Delete type=0 #249
+2026/07/05-17:27:01.952 dd0 Delete type=3 #248

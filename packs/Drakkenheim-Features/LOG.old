@@ -1,5 +1,5 @@
-2026/07/04-15:47:27.239 2cac Recovering log #258
-2026/07/04-15:47:27.241 2cac Level-0 table #260: started
-2026/07/04-15:47:27.247 2cac Level-0 table #260: 204924 bytes OK
-2026/07/04-15:47:27.253 2cac Delete type=0 #258
-2026/07/04-15:47:27.253 2cac Delete type=3 #257
+2026/07/05-17:27:01.888 4f44 Recovering log #263
+2026/07/05-17:27:01.888 4f44 Level-0 table #266: started
+2026/07/05-17:27:01.896 4f44 Level-0 table #266: 54042 bytes OK
+2026/07/05-17:27:01.908 4f44 Delete type=0 #263
+2026/07/05-17:27:01.908 4f44 Delete type=3 #262
