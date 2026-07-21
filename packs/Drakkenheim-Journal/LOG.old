@@ -1,3 +1,8 @@
-2026/07/18-14:52:03.658 52f0 Recovering log #169
-2026/07/18-14:52:03.664 52f0 Delete type=0 #169
-2026/07/18-14:52:03.664 52f0 Delete type=3 #168
+2026/07/21-12:29:41.315 4888 Recovering log #171
+2026/07/21-12:29:41.321 4888 Delete type=0 #171
+2026/07/21-12:29:41.321 4888 Delete type=3 #170
+2026/07/21-21:04:16.445 a54 Level-0 table #175: started
+2026/07/21-21:04:16.446 a54 Level-0 table #175: 0 bytes OK
+2026/07/21-21:04:16.448 a54 Delete type=0 #173
+2026/07/21-21:04:16.451 a54 Manual compaction at level-0 from '!folders!rJLrSVtvqXdDkTld' @ 72057594037927935 : 1 .. '!journal.pages!CZUXyCnXk959Wcqc.3yJlMA0B3u8f89dC' @ 0 : 0; will stop at (end)
+2026/07/21-21:04:16.454 a54 Manual compaction at level-1 from '!folders!rJLrSVtvqXdDkTld' @ 72057594037927935 : 1 .. '!journal.pages!CZUXyCnXk959Wcqc.3yJlMA0B3u8f89dC' @ 0 : 0; will stop at (end)
