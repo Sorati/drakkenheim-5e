@@ -1,3 +1,8 @@
-2026/07/17-22:27:22.808 1cbc Recovering log #292
-2026/07/17-22:27:22.815 1cbc Delete type=0 #292
-2026/07/17-22:27:22.815 1cbc Delete type=3 #291
+2026/07/21-12:29:41.194 4888 Recovering log #296
+2026/07/21-12:29:41.202 4888 Delete type=0 #296
+2026/07/21-12:29:41.202 4888 Delete type=3 #295
+2026/07/21-21:04:16.417 a54 Level-0 table #300: started
+2026/07/21-21:04:16.417 a54 Level-0 table #300: 0 bytes OK
+2026/07/21-21:04:16.419 a54 Delete type=0 #298
+2026/07/21-21:04:16.426 a54 Manual compaction at level-0 from '!items!79gXaXxB2MXUSYp0' @ 72057594037927935 : 1 .. '!items!pF5F3uojKjhBs49V' @ 0 : 0; will stop at (end)
+2026/07/21-21:04:16.441 a54 Manual compaction at level-1 from '!items!79gXaXxB2MXUSYp0' @ 72057594037927935 : 1 .. '!items!pF5F3uojKjhBs49V' @ 0 : 0; will stop at (end)
