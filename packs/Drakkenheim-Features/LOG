@@ -1,6 +1,5 @@
-2026/07/22-18:29:16.630 3f2c Recovering log #353
-2026/07/22-18:29:16.630 3f2c Level-0 table #355: started
-2026/07/22-18:29:16.634 3f2c Level-0 table #355: 88213 bytes OK
-2026/07/22-18:29:16.640 3f2c Delete type=0 #353
-2026/07/22-18:29:16.641 3f2c Delete type=3 #352
-2026/07/22-19:20:49.588 45ec Moved #355 to level-1 88213 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2026/07/22-19:48:19.560 6c8 Recovering log #356
+2026/07/22-19:48:19.560 6c8 Level-0 table #358: started
+2026/07/22-19:48:19.566 6c8 Level-0 table #358: 103856 bytes OK
+2026/07/22-19:48:19.572 6c8 Delete type=0 #356
+2026/07/22-19:48:19.572 6c8 Delete type=3 #354
