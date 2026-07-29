@@ -1,5 +1,5 @@
-2026/07/29-01:15:31.091 2fbc Recovering log #384
-2026/07/29-01:15:31.092 2fbc Level-0 table #386: started
-2026/07/29-01:15:31.096 2fbc Level-0 table #386: 59168 bytes OK
-2026/07/29-01:15:31.102 2fbc Delete type=0 #384
-2026/07/29-01:15:31.103 2fbc Delete type=3 #383
+2026/07/29-15:53:51.325 49d4 Recovering log #387
+2026/07/29-15:53:51.326 49d4 Level-0 table #389: started
+2026/07/29-15:53:51.336 49d4 Level-0 table #389: 2815 bytes OK
+2026/07/29-15:53:51.342 49d4 Delete type=0 #387
+2026/07/29-15:53:51.342 49d4 Delete type=3 #385
