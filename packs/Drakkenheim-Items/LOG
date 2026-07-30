@@ -1,17 +1,6 @@
-2026/07/29-22:23:02.399 5890 Recovering log #399
-2026/07/29-22:23:02.400 5890 Level-0 table #402: started
-2026/07/29-22:23:02.406 5890 Level-0 table #402: 205434 bytes OK
-2026/07/29-22:23:02.413 5890 Delete type=0 #399
-2026/07/29-22:23:02.413 5890 Delete type=3 #397
-2026/07/29-23:19:19.994 cac Compacting 1@0 + 1@1 files
-2026/07/29-23:19:19.999 cac Generated table #404@0: 38 keys, 65630 bytes
-2026/07/29-23:19:19.999 cac Compacted 1@0 + 1@1 files => 65630 bytes
-2026/07/29-23:19:20.001 cac compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/07/29-23:19:20.001 cac Delete type=2 #400
-2026/07/29-23:19:20.001 cac Delete type=2 #402
-2026/07/30-00:15:16.604 cac Compacting 1@1 + 1@2 files
-2026/07/30-00:15:16.615 cac Generated table #405@1: 114 keys, 145684 bytes
-2026/07/30-00:15:16.615 cac Compacted 1@1 + 1@2 files => 145684 bytes
-2026/07/30-00:15:16.617 cac compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/07/30-00:15:16.618 cac Delete type=2 #379
-2026/07/30-00:15:16.618 cac Delete type=2 #404
+2026/07/30-12:06:42.671 2acc Recovering log #403
+2026/07/30-12:06:42.674 2acc Level-0 table #407: started
+2026/07/30-12:06:42.684 2acc Level-0 table #407: 480434 bytes OK
+2026/07/30-12:06:42.689 2acc Delete type=0 #403
+2026/07/30-12:06:42.689 2acc Delete type=3 #401
+2026/07/30-12:31:02.920 5314 Moved #407 to level-1 480434 bytes OK: files[ 0 1 1 0 0 0 0 ]
