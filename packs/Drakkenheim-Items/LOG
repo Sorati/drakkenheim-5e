@@ -1,6 +1,3 @@
-2026/07/30-12:06:42.671 2acc Recovering log #403
-2026/07/30-12:06:42.674 2acc Level-0 table #407: started
-2026/07/30-12:06:42.684 2acc Level-0 table #407: 480434 bytes OK
-2026/07/30-12:06:42.689 2acc Delete type=0 #403
-2026/07/30-12:06:42.689 2acc Delete type=3 #401
-2026/07/30-12:31:02.920 5314 Moved #407 to level-1 480434 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2026/08/05-18:48:14.289 3bb4 Recovering log #439
+2026/08/05-18:48:14.295 3bb4 Delete type=0 #439
+2026/08/05-18:48:14.295 3bb4 Delete type=3 #438
