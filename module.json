@@ -22,6 +22,15 @@
       "color": "#2d1a60",
       "folders": [
         {
+          "name": "Классы",
+          "sorting": "m",
+          "color": "#321a73",
+          "packs": [
+            "Drakkenheim-Subclasses"
+          ],
+          "folders": []
+        },
+        {
           "name": "Журналы",
           "sorting": "m",
           "color": "#321a73",
@@ -178,6 +187,17 @@
       "name": "Drakkenheim-Spell-Special",
       "label": "Drakkenheim-Spell-Special",
       "path": "packs/Drakkenheim-Spell-Special",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Drakkenheim-Subclasses",
+      "label": "Drakkenheim-Subclasses",
+      "path": "packs/Drakkenheim-Subclasses",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
