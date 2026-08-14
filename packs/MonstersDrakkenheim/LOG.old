@@ -1,8 +1,3 @@
-2026/08/11-15:52:28.933 440 Recovering log #548
-2026/08/11-15:52:28.939 440 Delete type=0 #548
-2026/08/11-15:52:28.939 440 Delete type=3 #546
-2026/08/11-17:29:00.211 3efc Level-0 table #553: started
-2026/08/11-17:29:00.211 3efc Level-0 table #553: 0 bytes OK
-2026/08/11-17:29:00.213 3efc Delete type=0 #551
-2026/08/11-17:29:00.218 3efc Manual compaction at level-0 from '!actors!0Qs3xyPKZl4B8tie' @ 72057594037927935 : 1 .. '!folders!yit7WI6PVZsYbph1' @ 0 : 0; will stop at (end)
-2026/08/11-17:29:00.229 3efc Manual compaction at level-1 from '!actors!0Qs3xyPKZl4B8tie' @ 72057594037927935 : 1 .. '!folders!yit7WI6PVZsYbph1' @ 0 : 0; will stop at (end)
+2026/08/13-19:17:51.368 47e0 Recovering log #575
+2026/08/13-19:17:51.377 47e0 Delete type=0 #575
+2026/08/13-19:17:51.378 47e0 Delete type=3 #574
