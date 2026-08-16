@@ -1,24 +1,8 @@
-2026/08/16-14:29:58.681 1a98 Recovering log #104
-2026/08/16-14:29:58.681 1a98 Level-0 table #106: started
-2026/08/16-14:29:58.689 1a98 Level-0 table #106: 26654 bytes OK
-2026/08/16-14:29:58.696 1a98 Delete type=0 #104
-2026/08/16-14:29:58.696 1a98 Delete type=3 #103
-2026/08/16-15:22:30.138 910 Level-0 table #109: started
-2026/08/16-15:22:30.142 910 Level-0 table #109: 38829 bytes OK
-2026/08/16-15:22:30.144 910 Delete type=0 #107
-2026/08/16-15:22:30.151 910 Manual compaction at level-0 from '!folders!2d6FIKbA0OvQldcL' @ 72057594037927935 : 1 .. '!items!ofsBU2M7r961q7Ax' @ 0 : 0; will stop at '!items!fR9YBz1g5X2Z0igA' @ 374 : 1
-2026/08/16-15:22:30.151 910 Compacting 2@0 + 0@1 files
-2026/08/16-15:22:30.155 910 Generated table #110@0: 2 keys, 5124 bytes
-2026/08/16-15:22:30.155 910 Compacted 2@0 + 0@1 files => 5124 bytes
-2026/08/16-15:22:30.157 910 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/16-15:22:30.157 910 Delete type=2 #106
-2026/08/16-15:22:30.158 910 Delete type=2 #109
-2026/08/16-15:22:30.158 910 Manual compaction at level-0 from '!items!fR9YBz1g5X2Z0igA' @ 374 : 1 .. '!items!ofsBU2M7r961q7Ax' @ 0 : 0; will stop at (end)
-2026/08/16-15:22:30.167 910 Manual compaction at level-1 from '!folders!2d6FIKbA0OvQldcL' @ 72057594037927935 : 1 .. '!items!ofsBU2M7r961q7Ax' @ 0 : 0; will stop at '!items!fR9YBz1g5X2Z0igA' @ 374 : 1
-2026/08/16-15:22:30.167 910 Compacting 1@1 + 1@2 files
-2026/08/16-15:22:30.171 910 Generated table #111@1: 18 keys, 14211 bytes
-2026/08/16-15:22:30.171 910 Compacted 1@1 + 1@2 files => 14211 bytes
-2026/08/16-15:22:30.172 910 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/08/16-15:22:30.173 910 Delete type=2 #96
-2026/08/16-15:22:30.173 910 Delete type=2 #110
-2026/08/16-15:22:30.178 910 Manual compaction at level-1 from '!items!fR9YBz1g5X2Z0igA' @ 374 : 1 .. '!items!ofsBU2M7r961q7Ax' @ 0 : 0; will stop at (end)
+2026/08/16-15:22:41.732 19a8 Recovering log #108
+2026/08/16-15:22:41.739 19a8 Delete type=0 #108
+2026/08/16-15:22:41.739 19a8 Delete type=3 #105
+2026/08/16-15:42:31.998 910 Level-0 table #115: started
+2026/08/16-15:42:31.998 910 Level-0 table #115: 0 bytes OK
+2026/08/16-15:42:32.001 910 Delete type=0 #113
+2026/08/16-15:42:32.001 910 Manual compaction at level-0 from '!folders!2d6FIKbA0OvQldcL' @ 72057594037927935 : 1 .. '!items!ofsBU2M7r961q7Ax' @ 0 : 0; will stop at (end)
+2026/08/16-15:42:32.001 910 Manual compaction at level-1 from '!folders!2d6FIKbA0OvQldcL' @ 72057594037927935 : 1 .. '!items!ofsBU2M7r961q7Ax' @ 0 : 0; will stop at (end)
