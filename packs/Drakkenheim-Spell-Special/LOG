@@ -1,0 +1,12 @@
+2026/08/24-19:06:05.868 3d3c Recovering log #173
+2026/08/24-19:06:05.868 3d3c Level-0 table #175: started
+2026/08/24-19:06:05.873 3d3c Level-0 table #175: 47235 bytes OK
+2026/08/24-19:06:05.877 3d3c Delete type=0 #173
+2026/08/24-19:06:05.878 3d3c Delete type=3 #172
+2026/08/24-21:37:04.464 35e4 Moved #175 to level-1 47235 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2026/08/24-21:57:13.758 35e4 Compacting 1@1 + 1@2 files
+2026/08/24-21:57:13.768 35e4 Generated table #177@1: 65 keys, 53402 bytes
+2026/08/24-21:57:13.768 35e4 Compacted 1@1 + 1@2 files => 53402 bytes
+2026/08/24-21:57:13.769 35e4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/08/24-21:57:13.771 35e4 Delete type=2 #5
+2026/08/24-21:57:13.771 35e4 Delete type=2 #175
