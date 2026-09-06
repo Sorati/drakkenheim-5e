@@ -13,7 +13,12 @@
     }
   ],
   "flags": {
-    "canUpload": true
+    "canUpload": true,
+    "dnd5e": {
+      "spellLists": [
+        "Compendium.drakkenheim-5e.Drakkenheim-Journal.JournalEntry.SxAocPegC0Y5V3LP.JournalEntryPage.B2cJHqSkQRTtpxRJ"
+      ]
+    }
   },
   "packFolders": [
     {
@@ -25,18 +30,14 @@
           "name": "Классы",
           "sorting": "m",
           "color": "#321a73",
-          "packs": [
-            "Drakkenheim-Subclasses"
-          ],
+          "packs": ["Drakkenheim-Subclasses", "Drakkenheim-Classes"],
           "folders": []
         },
         {
           "name": "Журналы",
           "sorting": "m",
           "color": "#321a73",
-          "packs": [
-            "Drakkenheim-Journal"
-          ],
+          "packs": ["Drakkenheim-Journal"],
           "folders": []
         },
         {
@@ -50,55 +51,49 @@
           "name": "Монстры",
           "sorting": "m",
           "color": "#3c1a98",
-          "packs": [
-            "MonstersDrakkenheim"
-          ],
+          "packs": ["MonstersDrakkenheim"],
           "folders": []
         },
         {
           "name": "Заклинания",
           "sorting": "m",
           "color": "#411aab",
-          "packs": [
-            "Drakkenheim-Spell",
-            "Drakkenheim-Spell-Special"
-          ],
+          "packs": ["Drakkenheim-Spell", "Drakkenheim-Spell-Special"],
           "folders": []
         },
         {
           "name": "Происхождения",
           "sorting": "m",
           "color": "#4519bd",
-          "packs": [
-            "Drakkenheim-Origin"
-          ],
+          "packs": ["Drakkenheim-Origin"],
           "folders": []
         },
         {
           "name": "Предметы",
           "sorting": "m",
           "color": "#4a19d0",
-          "packs": [
-            "Drakkenheim-Items"
-          ],
+          "packs": ["Drakkenheim-Items"],
           "folders": []
         },
         {
           "name": "Особенности",
           "sorting": "m",
           "color": "#4f19e2",
-          "packs": [
-            "Drakkenheim-Features"
-          ],
+          "packs": ["Drakkenheim-Features"],
           "folders": []
         },
         {
           "name": "Таблицы",
           "sorting": "m",
           "color": "#5419f5",
-          "packs": [
-            "Drakkenheim-Tables"
-          ],
+          "packs": ["Drakkenheim-Tables"],
+          "folders": []
+        },
+        {
+          "name": "НПС",
+          "sorting": "m",
+          "color": "#5419f5",
+          "packs": ["Drakkenheim-NPC"],
           "folders": []
         }
       ],
@@ -199,11 +194,33 @@
       "label": "Drakkenheim-Subclasses",
       "path": "packs/Drakkenheim-Subclasses",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
+    },
+    {
+      "name": "Drakkenheim-NPC",
+      "label": "Drakkenheim-NPC",
+      "path": "packs/Drakkenheim-NPC",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Drakkenheim-Classes",
+      "label": "Drakkenheim-Classes",
+      "path": "packs/Drakkenheim-Classes",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "description": ""
