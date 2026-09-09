@@ -12,6 +12,12 @@
       "flags": {}
     }
   ],
+  "esmodules": [ 
+    "scripts/contamination.js" 
+  ], 
+  "styles": [ 
+    "styles/contamination.css" 
+  ],
   "flags": {
     "canUpload": true,
     "dnd5e": {
