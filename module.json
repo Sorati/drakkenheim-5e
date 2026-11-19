@@ -13,7 +13,8 @@
     }
   ],
   "esmodules": [ 
-    "scripts/main.js" 
+    "scripts/main.js",
+    "scripts/tale-hide.js"
   ], 
   "styles": [ 
     "styles/contamination.css" 
